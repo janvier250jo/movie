@@ -11,13 +11,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="JANVIERBOX &raquo; Feed" href="https://agasobanuyeJANVIERBOX.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="TimeBox &raquo; Comments Feed" href="https://agasobanuyetimebox.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JANVIERBOX&raquo; Comments Feed" href="https://agasobanuyeJANVIERBOX.com/comments/feed/" />
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/agasobanuyetimebox.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
-<link rel='stylesheet' id='hfe-widgets-style-css' href='https://agasobanuyetimebox.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://agasobanuyeJANVIERBOX.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.3.0' media='all' />
 <style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
@@ -147,9 +147,9 @@ gtag("config", "GT-PZMQWQWX");
 				}
 			</style>
 			<link rel="icon" href="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/SITE-identity-logo-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/SITE-identity-logo.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/SITE-identity-logo.png" />
-<meta name="msapplication-TileImage" content="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/SITE-identity-logo.png" />
+<link rel="icon" href="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/SITE-identity-logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/SITE-identity-logo.png" />
+<meta name="msapplication-TileImage" content="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/SITE-identity-logo.png" />
 		<style id="wp-custom-css">
 			/* Full width button on the homepage */.full-btn.elementor-widget-button .elementor-button{width:100%}/* Newsletter form button */.oew-newsletter-form-wrap .button{padding:0 20px}/* Footer */body #footer-widgets{text-align:center}body #footer-widgets .ocean-newsletter-form{margin:0 0 26px}body #footer-widgets .ocean-newsletter-form-wrap input[type="email"]{color:#7c7c7c;border-width:2px;border-color:rgba(255,255,255,0.2);font-size:15px;letter-spacing:.8px}body #footer-widgets .ocean-newsletter-form-wrap input[type="email"]:hover{border-color:rgba(255,255,255,0.5)}body #footer-widgets .ocean-newsletter-form-wrap input[type="email"]:focus{border-color:rgba(255,255,255,0.6)}body #footer-widgets .ocean-newsletter-form-wrap button:hover{background-color:#5c7c19}body #footer-widgets .social-widget li a{color:#4a4a4a;font-size:20px;line-height:1;padding:.5em}body #footer-widgets .social-widget li a:hover{color:#8cba29}/* Footer newsletter form on responsive */@media only screen and (max-width:320px){#scroll-top{display:none !important}}		</style>
 		<style id="wpr_lightbox_styles">
@@ -273,11 +273,11 @@ gtag("config", "GT-PZMQWQWX");
 
 				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-171 current_page_item menu-item-394"><a href="https://agasobanuyetimebox.com/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-328"><a href="https://agasobanuyetimebox.com/blog/" class="menu-link"><span class="text-wrap">Movies<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
 <ul class="sub-menu">
-	<li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://agasobanuyetimebox.com/category/action/" class="menu-link"><span class="text-wrap">Action</span></a></li>	<li id="menu-item-479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://agasobanuyetimebox.com/category/animation/" class="menu-link"><span class="text-wrap">Animation</span></a></li>	<li id="menu-item-481" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://agasobanuyetimebox.com/category/tv-series/" class="menu-link"><span class="text-wrap">TV-Series</span></a></li>	<li id="menu-item-674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a href="https://agasobanuyetimebox.com/category/horror/" class="menu-link"><span class="text-wrap">Horror</span></a></li>	<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://agasobanuyetimebox.com/category/drama/" class="menu-link"><span class="text-wrap">Drama</span></a></li></ul>
-</li><li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://agasobanuyetimebox.com/about-us/" class="menu-link"><span class="text-wrap">About Us</span></a></li><li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://agasobanuyetimebox.com/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li><li class="search-toggle-li" ><a href="https://agasobanuyetimebox.com/#" class="site-search-toggle search-dropdown-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" fas fa-search" aria-hidden="true" role="img"></i></a></li></ul>
+	<li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://agasobanuyeJANVIERBOX.com/category/action/" class="menu-link"><span class="text-wrap">Action</span></a></li>	<li id="menu-item-479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://agasobanuyeJANVIERBOX.com/category/animation/" class="menu-link"><span class="text-wrap">Animation</span></a></li>	<li id="menu-item-481" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://agasobanuyetimebox.com/category/tv-series/" class="menu-link"><span class="text-wrap">TV-Series</span></a></li>	<li id="menu-item-674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a href="https://agasobanuyeJANVIERBOX.com/category/horror/" class="menu-link"><span class="text-wrap">Horror</span></a></li>	<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://agasobanuyeJANVIERBOX.com/category/drama/" class="menu-link"><span class="text-wrap">Drama</span></a></li></ul>
+</li><li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://agasobanuyeJANVIERBOX.com/about-us/" class="menu-link"><span class="text-wrap">About Us</span></a></li><li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://agasobanuyetimebox.com/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li><li class="search-toggle-li" ><a href="https://agasobanuyeJANVIERBOX.com/#" class="site-search-toggle search-dropdown-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" fas fa-search" aria-hidden="true" role="img"></i></a></li></ul>
 <div id="searchform-dropdown" class="header-searchform-wrap clr" >
 	
-<form aria-label="Search this website" role="search" method="get" class="searchform" action="https://agasobanuyetimebox.com/">	
+<form aria-label="Search this website" role="search" method="get" class="searchform" action="https://agasobanuyeJANVIERBOX.com/">	
 	<input aria-label="Insert search query" type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
 		</form>
 </div><!-- #searchform-dropdown -->
@@ -318,20 +318,20 @@ gtag("config", "GT-PZMQWQWX");
 	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
 
 		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-171 current_page_item menu-item-394"><a href="https://agasobanuyetimebox.com/" aria-current="page">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-328"><a href="https://agasobanuyetimebox.com/blog/">Movies</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-328"><a href="https://agasobanuyeJANVIERBOX.com/blog/">Movies</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://agasobanuyetimebox.com/category/action/">Action</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://agasobanuyetimebox.com/category/animation/">Animation</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://agasobanuyetimebox.com/category/tv-series/">TV-Series</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a href="https://agasobanuyetimebox.com/category/horror/">Horror</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://agasobanuyetimebox.com/category/drama/">Drama</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="https://agasobanuyeJANVIERBOX.com/category/action/">Action</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="https://agasobanuyeJANVIERBOX.com/category/animation/">Animation</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-481"><a href="https://agasobanuyeJANVIERBOX.com/category/tv-series/">TV-Series</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a href="https://agasobanuyeJANVIERBOX.com/category/horror/">Horror</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="https://agasobanuyeJANVIERBOX.com/category/drama/">Drama</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://agasobanuyetimebox.com/about-us/">About Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://agasobanuyetimebox.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://agasobanuyeJANVIERBOX.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://agasobanuyeJANVIERBOX.com/contact-us/">Contact Us</a></li>
 <li class="search-toggle-li" ><a href="https://agasobanuyetimebox.com/#" class="site-search-toggle search-dropdown-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" fas fa-search" aria-hidden="true" role="img"></i></a></li></ul>
 <div id="mobile-menu-search" class="clr">
-	<form aria-label="Search this website" method="get" action="https://agasobanuyetimebox.com/" class="mobile-searchform">
+	<form aria-label="Search this website" method="get" action="https://agasobanuyeJANVIERBOX.com/" class="mobile-searchform">
 		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search" />
 		<button aria-label="Submit search" type="submit" class="searchform-submit">
 			<i class=" fas fa-search" aria-hidden="true" role="img"></i>		</button>
@@ -387,7 +387,7 @@ gtag("config", "GT-PZMQWQWX");
 				<div class="elementor-element elementor-element-gydt3kn elementor-widget elementor-widget-button" data-id="gydt3kn" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://agasobanuyetimebox.com/blog/">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://agasobanuyeJANVIERBOX.com/blog/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-right" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z"></path></svg>			</span>
@@ -496,7 +496,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="677" href="https://agasobanuyetimebox.com/2025/04/30/boy-kills-world-2024-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Boy-Kills-World-2024.jpeg"
+					<a data-id="677" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/boy-kills-world-2024-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Boy-Kills-World-2024.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1104"
@@ -530,7 +530,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="675" href="https://agasobanuyetimebox.com/2025/04/30/a-quiet-place-day-one-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/A-Quiet-Place_-Day-One-Um-Lugar-Silencioso_-Dia-Um-2024.jpeg"
+					<a data-id="675" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/a-quiet-place-day-one-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeBOX.com/wp-content/uploads/2025/04/A-Quiet-Place_-Day-One-Um-Lugar-Silencioso_-Dia-Um-2024.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1104"
@@ -564,7 +564,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="667" href="https://agasobanuyetimebox.com/2025/04/30/10-the-secret-mission-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/secret-misson-768x1024.jpg"
+					<a data-id="667" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/10-the-secret-mission-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/secret-misson-768x1024.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1024"
@@ -598,7 +598,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="655" href="https://agasobanuyetimebox.com/2025/04/26/the-house-of-the-dragon-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/download-1.jpeg"
+					<a data-id="655" href="https://agasobanuyeJANVIERBOX.com/2025/04/26/the-house-of-the-dragon-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeAJANVIERBOX.com/wp-content/uploads/2025/04/download-1.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="920"
@@ -632,7 +632,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="622" href="https://agasobanuyetimebox.com/2025/04/22/battleship-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Battleship-2012-_-Морской-бой.jpeg"
+					<a data-id="622" href="https://agasobanuyeAJNVIERBOX.com/2025/04/22/battleship-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/Battleship-2012-_-Морской-бой.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1041"
@@ -666,7 +666,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="618" href="https://agasobanuyetimebox.com/2025/04/22/the-fix-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Fix-768x1087.jpg"
+					<a data-id="618" href="https://agasobanuyeJANVIERBOX.com/2025/04/22/the-fix-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/Fix-768x1087.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1087"
@@ -700,7 +700,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="614" href="https://agasobanuyetimebox.com/2025/04/22/ozi-voice-of-the-forest/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/ozi2-768x1139.jpg"
+					<a data-id="614" href="https://agasobanuyeJANVIERBOX.com/2025/04/22/ozi-voice-of-the-forest/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeAJANVIERBOX.com/wp-content/uploads/2025/04/ozi2-768x1139.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1139"
@@ -759,7 +759,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="689" href="https://agasobanuyetimebox.com/2025/05/01/kidnap-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img fetchpriority="high" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/05/Kidnap.jpg"
+					<a data-id="689" href="https://agasobanuyeJANVIERBOX.com/2025/05/01/kidnap-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img fetchpriority="high" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/05/Kidnap.jpg"
                              class="rt-img-responsive"
                              width="735"
                              height="1090"
@@ -793,7 +793,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="686" href="https://agasobanuyetimebox.com/2025/05/01/my-fairy-movie-2022-agasobanuye/" class="tpg-post-link" target="_self">                        <img decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/05/MY-FAIRY-768x1086.jpg"
+					<a data-id="686" href="https://agasobanuyeJANVIERBOX.com/2025/05/01/my-fairy-movie-2022-agasobanuye/" class="tpg-post-link" target="_self">                        <img decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/05/MY-FAIRY-768x1086.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1086"
@@ -827,7 +827,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="677" href="https://agasobanuyetimebox.com/2025/04/30/boy-kills-world-2024-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Boy-Kills-World-2024.jpeg"
+					<a data-id="677" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/boy-kills-world-2024-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeAJANVIERBOX.com/wp-content/uploads/2025/04/Boy-Kills-World-2024.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1104"
@@ -861,7 +861,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="675" href="https://agasobanuyetimebox.com/2025/04/30/a-quiet-place-day-one-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/A-Quiet-Place_-Day-One-Um-Lugar-Silencioso_-Dia-Um-2024.jpeg"
+					<a data-id="675" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/a-quiet-place-day-one-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/A-Quiet-Place_-Day-One-Um-Lugar-Silencioso_-Dia-Um-2024.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1104"
@@ -895,7 +895,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="667" href="https://agasobanuyetimebox.com/2025/04/30/10-the-secret-mission-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/secret-misson-768x1024.jpg"
+					<a data-id="667" href="https://agasobanuyeJANVIERBOX.com/2025/04/30/10-the-secret-mission-2017-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/secret-misson-768x1024.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1024"
@@ -929,7 +929,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="655" href="https://agasobanuyetimebox.com/2025/04/26/the-house-of-the-dragon-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/download-1.jpeg"
+					<a data-id="655" href="https://agasobanuyeJANVIERBOX.com/2025/04/26/the-house-of-the-dragon-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/download-1.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="920"
@@ -963,7 +963,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="622" href="https://agasobanuyetimebox.com/2025/04/22/battleship-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Battleship-2012-_-Морской-бой.jpeg"
+					<a data-id="622" href="https://agasobanuyeJANVIERBOX.com/2025/04/22/battleship-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/Battleship-2012-_-Морской-бой.jpeg"
                              class="rt-img-responsive"
                              width="736"
                              height="1041"
@@ -997,7 +997,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="618" href="https://agasobanuyetimebox.com/2025/04/22/the-fix-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/Fix-768x1087.jpg"
+					<a data-id="618" href="https://agasobanuyeJANVIERBOX.com/2025/04/22/the-fix-agasobanuye/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/Fix-768x1087.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1087"
@@ -1031,7 +1031,7 @@ gtag("config", "GT-PZMQWQWX");
 	<div class="rt-holder tpg-post-holder">
 		<div class="rt-detail rt-el-content-wrapper">
 							<div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-					<a data-id="614" href="https://agasobanuyetimebox.com/2025/04/22/ozi-voice-of-the-forest/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyetimebox.com/wp-content/uploads/2025/04/ozi2-768x1139.jpg"
+					<a data-id="614" href="https://agasobanuyeJANVIERBOX.com/2025/04/22/ozi-voice-of-the-forest/" class="tpg-post-link" target="_self">                        <img loading="lazy" decoding="async" src="https://agasobanuyeJANVIERBOX.com/wp-content/uploads/2025/04/ozi2-768x1139.jpg"
                              class="rt-img-responsive"
                              width="768"
                              height="1139"
@@ -1281,15 +1281,15 @@ gtag("config", "GT-PZMQWQWX");
 				} );
 			</script>
 			<link rel='stylesheet' id='widget-icon-list-css' href='https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.28.4' media='all' />
-<link rel='stylesheet' id='widget-social-icons-css' href='https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.4' media='all' />
-<link rel='stylesheet' id='e-apple-webkit-css' href='https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.28.4' media='all' />
-<link rel='stylesheet' id='swiper-css' href='https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
-<link rel='stylesheet' id='e-swiper-css' href='https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.4' media='all' />
-<script src="https://agasobanuyetimebox.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<link rel='stylesheet' id='widget-social-icons-css' href='https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.4' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.28.4' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.4' media='all' />
+<script src="https://agasobanuyeJANVIERBOX.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
 <script id="rt-tpg-js-extra">
-var rttpg = {"nonceID":"rttpg_nonce","nonce":"60c6adcfaa","ajaxurl":"https:\/\/agasobanuyetimebox.com\/wp-admin\/admin-ajax.php","uid":"0"};
+var rttpg = {"nonceID":"rttpg_nonce","nonce":"60c6adcfaa","ajaxurl":"https:\/\/agasobanuyeJANVIERBOX.com\/wp-admin\/admin-ajax.php","uid":"0"};
 </script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/the-post-grid/assets/js/rttpg.js?ver=7.7.19" id="rt-tpg-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/the-post-grid/assets/js/rttpg.js?ver=7.7.19" id="rt-tpg-js"></script>
 <script id="rt-tpg-js-after">
 (function($){
 						$('.rt-tpg-container').on('tpg_item_before_load', function(){});
@@ -1297,43 +1297,39 @@ var rttpg = {"nonceID":"rttpg_nonce","nonce":"60c6adcfaa","ajaxurl":"https:\/\/a
 						$('.rt-tpg-container').on('tpg_loaded', function(){});
 					})(jQuery);
 </script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
 <script id="oceanwp-main-js-extra">
 var oceanwpLocalize = {"nonce":"6d7cff0b75","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/agasobanuyetimebox.com\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"460e4327ad"};
 </script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.8" id="oceanwp-main-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.8" id="oceanwp-drop-down-mobile-menu-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.8" id="oceanwp-drop-down-search-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.8" id="ow-magnific-popup-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.8" id="oceanwp-lightbox-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.8" id="ow-flickity-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.8" id="oceanwp-slider-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.8" id="oceanwp-scroll-effect-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.8" id="oceanwp-scroll-top-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.8" id="oceanwp-select-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.8" id="oceanwp-main-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.8" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.8" id="oceanwp-drop-down-search-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.COM/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.8" id="ow-magnific-popup-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.8" id="oceanwp-lightbox-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.8" id="ow-flickity-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.8" id="oceanwp-slider-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.8" id="oceanwp-scroll-effect-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.8" id="oceanwp-scroll-top-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.8" id="oceanwp-select-js"></script>
 <script id="flickr-widget-script-js-extra">
 var flickrWidgetParams = {"widgets":[]};
 </script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.1" id="flickr-widget-script-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-b35450445f9cb0eeb855.js" id="googlesitekit-events-provider-wpforms-js" defer></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/ocean-social-sharing/assets/js/social.js?ver=2.2.0" id="oss-social-share-script-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.4" id="elementor-webpack-runtime-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.4" id="elementor-frontend-modules-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.1" id="flickr-widget-script-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-b35450445f9cb0eeb855.js" id="googlesitekit-events-provider-wpforms-js" defer></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/ocean-social-sharing/assets/js/social.js?ver=2.2.0" id="oss-social-share-script-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.4" id="elementor-frontend-modules-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.28.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"home_screen":true,"launchpad-checklist":true},"urls":{"assets":"https:\/\/agasobanuyetimebox.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/agasobanuyetimebox.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/agasobanuyetimebox.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"622a7816d5"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":171,"title":"TimeBox%20%E2%80%93%20agasobanuye%20movies%20for%20free","excerpt":"","featuredImage":false}};
 </script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.4" id="elementor-frontend-js"></script>
+<script src="https://agasobanuyeJANVIERBOX.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.4" id="elementor-frontend-js"></script>
 <script id="wpr-addons-js-js-extra">
-var WprConfig = {"ajaxurl":"https:\/\/agasobanuyetimebox.com\/wp-admin\/admin-ajax.php","resturl":"https:\/\/agasobanuyetimebox.com\/wp-json\/wpraddons\/v1","nonce":"2910da2f7a","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"https:\/\/agasobanuyetimebox.com\/","wishlistPageID":"","wishlistPageURL":"https:\/\/agasobanuyetimebox.com\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error"};
+var WprConfig = {"ajaxurl":"https:\/\/agasobanuyetim"https:\/\/agasobanuyetimebox.com\/wp-json\/wpraddons\/v1","nonce":"2910da2f7a","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"https:\/\/agasobanuyetimebox.com\/","wishlistPageID":"","wishlistPageURL":"https:\/\/agasobanuyetimebox.com\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error"};
 </script>
 <script data-cfasync="false" src="https://agasobanuyetimebox.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1017" id="wpr-addons-js-js"></script>
-<script src="https://agasobanuyetimebox.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1017" id="wpr-modal-popups-js-js"></script>
-</body>
-</html>
-
-
-<!-- Page cached by LiteSpeed Cache 7.1 on 2025-05-01 20:52:42 -->
+<script src="https://agasobanuyetimeugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1017" id="wpr-modal-popups-js-js"></script>
+</body>25-05-01 20:52:42 -->
