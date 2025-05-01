@@ -10,7 +10,7 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="TimeBox &raquo; Feed" href="https://agasobanuyetimebox.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JANVIERBOX &raquo; Feed" href="https://agasobanuyeJANVIERBOX.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="TimeBox &raquo; Comments Feed" href="https://agasobanuyetimebox.com/comments/feed/" />
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/agasobanuyetimebox.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
