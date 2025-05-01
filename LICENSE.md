@@ -105,7 +105,7 @@ gtag("config", "GT-PZMQWQWX");
 <!-- End Google tag (gtag.js) snippet added by Site Kit -->
 <link rel="https://api.w.org/" href="https://agasobanuyetimebox.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://agasobanuyetimebox.com/wp-json/wp/v2/pages/171" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://agasobanuyetimebox.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.8.1" />
-<link rel="canonical" href="https://agasobanuyetimebox.com/" />
+<link rel="canonical" href="https://agasobanuyeAJANVIERBOX.com/" />
 <link rel='shortlink' href='https://agasobanuyetimebox.com/' />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://agasobanuyetimebox.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagasobanuyetimebox.com%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://agasobanuyetimebox.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fagasobanuyetimebox.com%2F&#038;format=xml" />
